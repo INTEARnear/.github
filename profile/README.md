@@ -6,7 +6,7 @@ Building infra for memecoins, and cool things for people
 
 | Name | Description | Repo |
 | --- | --- | --- |
-| [Bettear Bot](https://t.me/BettearBot) | Telegram Bot that alerts about on-chain actions | [INTEARnear/Tear](https://github.com/INTEARnear/Tear) |
+| [Bettear Bot](https://t.me/BettearBot) | Telegram Bot that alerts about on-chain actions, or can be used as a chain explorer | [INTEARnear/Tear](https://github.com/INTEARnear/Tear) |
 | [inindexer](https://docs.rs/inindexer) | A framework for indexers in Rust | [INTEARnear/inindexer](https://github.com/INTEARnear/inindexer) |
 | [intear-events](https://docs.intear.tech/docs/events-api/) | HTTP + WebSocket API framework with 25+ built-in events | [INTEARnear/intear-events](https://github.com/INTEARnear/intear-events) (example usage) / [INTEARnear/inevents](https://github.com/INTEARnear/inevents) (library) |
 | [Prices API](https://prices.intear.tech) | Price and other data for all tokens on NEAR | [INTEARnear/price-indexer](https://github.com/INTEARnear/price-indexer) |
