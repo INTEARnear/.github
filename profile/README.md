@@ -20,7 +20,6 @@ Building infra for memecoins, and cool things for people
 | --- | --- | --- |
 | [Telegram Trading Bot](https://t.me/BettearBot) | Trading bot that has DCA, Trigger Orders, Copytrading, built-in Bridge, supports NEAR and Solana | Not open-source 😭 |
 | [Chart](https://chart.intear.tech) | Embeddable TradingView chart that uses our price source | [INTEARnear/chart](https://github.com/INTEARnear/chart-tradingview) |
-| [Lock LP](https://near.social/slimedragon.near/widget/LockLP) | Liquidity pool locker. Deprecated in favor of Ref's official locker contract | [INTEARnear/ref_lp_lockup](https://github.com/INTEARnear/ref_lp_lockup) / [INTEARnear/ref_lp_lockup_factory](https://github.com/INTEARnear/ref_lp_lockup_factory) |
 | [Tokens Bitte Agent](https://www.bitte.ai/registry/tokens-agent.intear.tech) | Bitte Agent that can search for tokens, get token prices and other data | [INTEARnear/token-agent](https://github.com/INTEARnear/token-agent) |
 | [Pump It Betty!](https://pumpit.intear.tech) | Volume / market-making bot | Not open-source 😭 |
 
@@ -30,7 +29,7 @@ Building infra for memecoins, and cool things for people
 | --- | --- | --- |
 | [Bitte Staking Agent](https://www.bitte.ai/registry/staking-agent.intear.tech) | AI agent for staking, unstaking, seeing your staking information | [INTEARnear/token-agent](https://github.com/INTEARnear/token-agent) |
 | [AI Oracles](https://github.com/INTEARnear/oracle/tree/main/crates) | GPT-4o centralized, GPT-4o through Reclaim Protocol, Near AI inference oracles | [INTEARnear/oracle/crates](https://github.com/INTEARnear/oracle) |
-| [Betty](https://betty.intear.tech) | AI agent mascot of Bettear Bot | [INTEARnear/betty](https://github.com/INTEARnear/betty) |
+| [AI Moderator](https://t.me/BettearBot) | Telegram Bot that has an AI Moderation feature | [INTEARnear/Tear/ai-moderator](https://github.com/INTEARnear/Tear/tree/main/ai-moderator) |
 
 ### 🤔 Other
 
